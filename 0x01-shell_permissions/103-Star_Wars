@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo mplayer -Star Wars IV.mp4
